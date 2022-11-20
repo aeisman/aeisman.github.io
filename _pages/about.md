@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <font style="color:var(--global-theme-color);"><b>MD-PhD Student in Biomedical Informatics at Brown University</b></font>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: aaroneisman.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an eighth-year MD-PhD candidate in Biomedical Informatics and Computational Biology training under the direction of Neil Sarkar at the Center for Biomedical Informatics at Brown University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests focus on the development of informatics methods that leverage population-level data to improve the accuracy of cardiovascular disease risk estimation towards a learning healthcare system. My work aims to improve adherence to clinical practice guidelines, enhance the precision of preventative medical therapies, better explain observed health outcome disparities in racial and ethnic minority populations, and develop mechanisms for translating omics research into clinical medical practice. I received an Sc.B. from Brown University in Applied Mathematics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before returning to Brown, I spent two years as a clinical research coordinator for the Cardiopulmonary Exercise Laboratory at Massachusetts General Hospital. As a member of that research team, we worked to understand cardiovascular pathophysiology including heart failure and pulmonary hypertension using exercise as a physiologic probe. Among other projects, we demonstrated that increased pulmonary capillary wedge pressure relative to cardiac output during exercise predicts exercise capacity and heart failure outcomes.

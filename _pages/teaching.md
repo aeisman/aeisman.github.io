@@ -2,11 +2,23 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Biomedical Informatics and Data Science Skills
+#### Teaching Assistant
+Medical Student Course, Brown University, Biology and Medicine, 2019
 
-Organize your courses by years, topics, or universities, however you like!
+Designed and gave lecture with live programming demonstration on Plotting and Data Visualisation. Assisted students with programming during class and office hours. Met with individual students to design and implement summer research projects.
+
+### Methods in Informatics and Data Science for Health
+#### Teaching Assistant
+Undergraduate Course, Brown University, Biology and Medicine, 2019
+
+Assisted students with course material during live programming exercises in class, office hours, and via electronic communication. Met with teams to design and implement their Course-based Undergraduate Research Experience projects.
+
+### Introduction to Exercise Physiology
+#### Instructor
+High School Course, Brown University, STEM II Summer Program, 2016
