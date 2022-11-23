@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <font style="color:var(--global-theme-color);"><b>MD-PhD Student in Biomedical Informatics at Brown University</b></font>
+subtitle: <font style="color:var(--global-theme-color);"><b>MD-PhD Candidate in Biomedical Informatics at Brown University</b></font>
 
 profile:
   align: right
