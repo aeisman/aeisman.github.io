@@ -6,7 +6,7 @@ subtitle: <font style="color:var(--global-theme-color);"><b>PhD in Computational
 
 profile:
   align: right
-  image: aaroneisman.jpg
+  image: aaroneisman.png
   image_circular: false # crops the image to make it circular
   address:
 
