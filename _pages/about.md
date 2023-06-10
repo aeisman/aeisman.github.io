@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <font style="color:var(--global-theme-color);"><b>MD-PhD Candidate in Biomedical Informatics at Brown University</b></font>
+subtitle: <font style="color:var(--global-theme-color);"><b>PhD in Computational Biology and Biomedical Informatics</b></font>
 
 profile:
   align: right
-  image: aaroneisman.png
+  image: aaroneisman.jpg
   image_circular: false # crops the image to make it circular
   address:
 
@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an eighth-year MD-PhD candidate in Biomedical Informatics and Computational Biology training under the direction of Neil Sarkar at the Center for Biomedical Informatics at Brown University.
+I earned my PhD in Computational Biology and Biomedical Informatics at Brown University in 2023 under the direction of Neil Sarkar at the Center for Biomedical Informatics and am currently a fourth year medical student at the Warren Alpert Medical School.
 
 My research interests focus on the development of informatics methods that leverage population-level data to improve the accuracy of cardiovascular disease risk estimation towards a learning healthcare system. My work aims to improve adherence to clinical practice guidelines, enhance the precision of preventative medical therapies, better explain observed health outcome disparities in racial and ethnic minority populations, and develop mechanisms for translating omics research into clinical medical practice. I received an Sc.B. from Brown University in Applied Mathematics.
 

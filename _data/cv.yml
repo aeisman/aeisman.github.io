@@ -10,7 +10,7 @@
     - title: MD Student
       institution: The Warren Alpert Medical School, Brown University
       year: Expected 2024
-    - title: PhD Candidate
+    - title: PhD
       institution: Center for Biomedical Informatics, Brown University
       year: Expected 2023
     - title: ScB
@@ -22,7 +22,7 @@
   contents:
     - title: Graduate Student
       institution: Center for Biomedical Informatics, Brown University
-      year: 2018-now
+      year: 2018-2023
       description:
 
     - title: Data Manager
